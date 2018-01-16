@@ -1,0 +1,35 @@
+DELETE FROM 表 WHERE 条件
+
+INSERT
+
+INSERT INTO table 字段 values()
+
+
+UPDATE TABLE
+
+SELETE * FROM table WHERE 条件
+
+
+---------------------------------------------------
+WHERE name='xxx'
+WHERE age>18
+WHERE age<=18
+WHERE age>=18 AND score<60
+WHERE cach>100 OR score>10000
+
+
+ORDER 排序
+
+ORDER BY age ASC/DESC
+ACS-升序
+DESC-降序
+
+ORDER BY price DESC
+ORDER BY price ASC,sales DESC
+
+---------------------------------------
+GROUP 聚类-合并相同
+
+COUNT
+
+
